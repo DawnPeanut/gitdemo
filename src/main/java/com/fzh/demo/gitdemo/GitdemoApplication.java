@@ -11,6 +11,7 @@ public class GitdemoApplication {
     public static void main(String[] args) {
 
         System.out.println("second");
+        System.out.println("third");
         SpringApplication.run(GitdemoApplication.class, args);
     }
 
